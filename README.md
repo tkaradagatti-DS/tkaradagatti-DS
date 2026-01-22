@@ -4,7 +4,7 @@
 
 I'm a detail-oriented **Junior Data Analyst** based in Loughborough, UK, with a passion for transforming raw data into actionable insights. With experience spanning freelance projects, consulting engagements, and enterprise environments, I specialize in data collection, cleaning, reporting, and dashboard development.
 
-Currently pursuing my **MSc in Data Science & Analytics** at Cardiff University (Merit - 75%), I'm eager to contribute to data-driven decision-making and grow within the analytics field.
+Currently pursuing my **MSc in Data Science & Analytics** at Cardiff University, I'm eager to contribute to data-driven decision-making and grow within the analytics field.
 
 ## Technical Skills
 
@@ -19,7 +19,7 @@ Currently pursuing my **MSc in Data Science & Analytics** at Cardiff University 
 - **SQL:** Data Extraction & Query Optimization
 - **Power BI:** Interactive Dashboards & Reports
 - **Tableau:** Data Visualization
-- **Python:** Basic Data Analysis (Pandas, NumPy)
+- **Python:** Basic Data Analysis (Pandas, NumPy),Google analytics
 
 ## 💼 Professional Experience Highlights
 
