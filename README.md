@@ -57,15 +57,8 @@ Currently pursuing my **MSc in Data Science & Analytics** at Cardiff University,
 
 - **Email:** tarunkaradagatti@gmail.com
 - **LinkedIn:** (https://www.linkedin.com/in/tarunkaradagatti)
-- **Location:** Loughborough, UK
-- **Phone:** +44 7741 015 353
 
-## 💡 Fun Facts
 
-- I have the right to work in the UK with no sponsorship required
-- Available for immediate start
-- Open to office-based and hybrid working arrangements
-- Passionate about turning complex data into simple, actionable stories
 
 ---
 
