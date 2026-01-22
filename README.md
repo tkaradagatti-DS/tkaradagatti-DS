@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a detail-oriented **Junior Data Analyst** based in Loughborough, UK, with a passion for transforming raw data into actionable insights. With experience spanning freelance projects, consulting engagements, and enterprise environments, I specialize in data collection, cleaning, reporting, and dashboard development.
+I'm a detail-oriented **Junior Data Analyst**, with a passion for transforming raw data into actionable insights. With experience spanning freelance projects, consulting engagements, and enterprise environments, I specialize in data collection, cleaning, reporting, and dashboard development.
 
 Currently pursuing my **MSc in Data Science & Analytics** at Cardiff University, I'm eager to contribute to data-driven decision-making and grow within the analytics field.
 
